@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "a3120e32-0b92-4205-832e-d2c274d7721f",
+    "name": "Ghast_EoE",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "31e5e4d7-dbf6-43e5-94cb-ad85cf29008e",
+    "name": "Tuiporttf9",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "51a8c801-c5f9-4617-a3ca-3d228645f5bc",
+    "name": "Epic_Galaxy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a3328b86-fe57-48fa-a7ba-c48b4b778635",
+    "name": "Romonov",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
